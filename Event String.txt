@@ -1,0 +1,7 @@
+"The Software Protection service has completed licensing status check.
+Application Id=0ff1ce15-a989-479d-af46-f275c6370663
+Licensing Status=
+1: 17c5a0eb-24ee-4eb3-91b6-6d9f9cb1acf6, 1, 1 [(0 )(1 )(2 )(3 [0x00000000, 0, 0],
+ [( 6 0xC004F009 5 0)( 1 0x00000000)( 6 0xC004F009 5 0)(?)(?)(?)
+ ( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+"
